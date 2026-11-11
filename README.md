@@ -1,6 +1,6 @@
 This repository has a Docker branch where I converted this bot to run as docker container.
 
-2026.11.11 - Originally, this was just a simple docker container of the original bot, however at some point in the last while Discord updated to allow 250 pins per channel, which pretty broke the old bots relying on the old limit. Additionally, it seems like they've updated the API a couple of times, so by the time an issue was noticed, it was well broken. The branch at the current time works with text posts, but still working on media posts.
+2026.11.11 - Originally, this was just a simple docker container of the original bot, however at some point in the last while Discord updated to allow 250 pins per channel, which pretty broke the old bots relying on the old limit. Additionally, it seems like they've updated the API a couple of times, so by the time an issue was noticed, it was well broken. The branch at the current time works with text posts, but I'm still working on media posts.
 
 when launching the container, you will require 2 environment variables:
 TOKEN: Your bot token
