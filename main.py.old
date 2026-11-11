@@ -1,4 +1,3 @@
-# deprecated
 from random import randrange
 
 import os
